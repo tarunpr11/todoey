@@ -2,6 +2,8 @@
 *.class
 *.log
 *.pyc
+*.cmake
+*.cmake.in
 *.swp
 .DS_Store
 .atom/
